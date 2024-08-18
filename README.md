@@ -1,0 +1,4 @@
+This repository contains the triangular version of the marching squares algorithm. In marching squares, a square mesh is given with the level set function values defined on vertices, and the algo gives us the zero level set of this function as a curve in 2D. 
+Here, we are using the same techniqie but it is for the triangular meshes. As triangular meshes are very common to sample the object in both 2D and 3D (surface), there is a need to extend this algo for the triangular meshes. 
+This repo contains the main file marching_tr.py written in python, and the user have to make a folder with the same name as the mesh filename, and must have the values of level set function defined on the vertices of this triangular mesh. 
+For running this program you just write marching_tr.py <folder_name>. I expect you have .obj file for mesh and .txt file for level set values. 
