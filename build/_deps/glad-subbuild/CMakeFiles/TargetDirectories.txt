@@ -1,0 +1,3 @@
+/home/azhar/Desktop/marching_squares/build/_deps/glad-subbuild/CMakeFiles/glad-populate.dir
+/home/azhar/Desktop/marching_squares/build/_deps/glad-subbuild/CMakeFiles/edit_cache.dir
+/home/azhar/Desktop/marching_squares/build/_deps/glad-subbuild/CMakeFiles/rebuild_cache.dir

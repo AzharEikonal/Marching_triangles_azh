@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ZeroLevelSet.dir/main.cpp.o -o ZeroLevelSet  _deps/glad-build/libglad.a /usr/lib/x86_64-linux-gnu/libOpenGL.so _deps/glfw-build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
